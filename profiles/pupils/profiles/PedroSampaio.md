@@ -12,7 +12,23 @@ Pedro Sampaio
 - Me tornar um ótimo engenheiro de software
 - Ser o 1º trilionário do mundo
 
+## Skills
+
+* HTML5
+* CSS3
+* JavaScript
+* Task Runners
+* TDD
+* Pré-processadores
+* Metodologias Ágeis
+* Programação Funcional
+* Programação Orientada a Objetos
+* Padrões de Projeto
+
 ## Alguns links para me conhecer melhor
 
 - [Twitter](https://twitter.com/pedroigorjs)
 - [LinkedIn](https://linkedin.com/in/pedroigorjs)
+- [GitHub](https://www.github.com/pedroigorjs)
+- [CodePen](https://codepen.io/pedroigorjs)
+- pedroigorjs@gmail.com
